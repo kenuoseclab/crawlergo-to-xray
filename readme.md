@@ -21,6 +21,7 @@
 （3）启动crawlergo并查看日志（需要自行修改代码中的配置）
 
 1.  nohup python3 crawlergo.py  >   crawlergo.log 2>&1 &
+2.  tail -f crawlergo.log
 
 
 
